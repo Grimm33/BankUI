@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Yandrick\.Rider2017.2\system\resharper-host\local\Transient\ReSharperHost\v10\SolutionCaches\_BankUI.936251393.00" t="ExcludeRecursive" />
+    <e p="M:\Documents\Projects\BankUI" t="IncludeFlat">
+      <e p="BankUI" t="IncludeRecursive">
+        <e p="Account.cs" t="Include" />
+        <e p="AddAccount.cs" t="Include" />
+        <e p="AddAccount.Designer.cs" t="Include" />
+        <e p="AddAccount.resx" t="Include" />
+        <e p="AddClient.cs" t="Include" />
+        <e p="AddClient.Designer.cs" t="Include" />
+        <e p="AddClient.resx" t="Include" />
+        <e p="AdminControls.cs" t="Include" />
+        <e p="AdminControls.Designer.cs" t="Include" />
+        <e p="AdminControls.resx" t="Include" />
+        <e p="App.config" t="Include" />
+        <e p="BankUI.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Frontpage.cs" t="Include" />
+        <e p="Frontpage.Designer.cs" t="Include" />
+        <e p="Frontpage.resx" t="Include" />
+        <e p="Inh___Person" t="Include">
+          <e p="Client.cs" t="Include" />
+          <e p="Employee.cs" t="Include" />
+        </e>
+        <e p="Inh_Account" t="Include">
+          <e p="CheckingAccount.cs" t="Include" />
+          <e p="SavingsAccount.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Person.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="Validation.cs" t="Include" />
+      </e>
+      <e p="BankUI.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
